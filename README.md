@@ -40,11 +40,3 @@ Technologies: Herouku, Python (SciPy package), Matplotlib, Pandas & Dash Plotly 
 ![image](https://user-images.githubusercontent.com/70984918/119550671-4bba2d00-bd5e-11eb-878e-34a6bd1e1890.png)
 ![image](https://user-images.githubusercontent.com/70984918/119550682-4eb51d80-bd5e-11eb-9561-22dd8988d034.png)
 ![image](https://user-images.githubusercontent.com/70984918/119550693-51177780-bd5e-11eb-9805-37bda73a4af4.png)
-
-Development Team
-
-Christine Brown
-Doris Meiere
-Ludmila Garcia
-Victoria Jeshurun
-Lizzie Stenhaug
